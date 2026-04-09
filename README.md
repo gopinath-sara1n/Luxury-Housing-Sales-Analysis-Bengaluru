@@ -100,6 +100,16 @@ The dashboard includes:
 * Top performers with drill-through capability
 * Geographical insights (Map visualization)
 
+## 📊 Dashboard Preview
+
+### Page_1
+![Page_1](Images/dashboard_overview_1.png)
+
+### Page_2
+![Page_2](Images/dashboard_overview_2.png)
+
+### Page_3
+![Page_3](Images/dashboard_overview_3.png)
 ---
 
 ## 🗺️ Geographical Analysis
