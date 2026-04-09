@@ -132,6 +132,7 @@ The dashboard includes:
 ```
 ├── luxury_housing_etl.ipynb
 ├── Luxury_Housing_Dashboard.pbix
+├── Luxury_Housing_Analysis_Insights.pptx
 ├── README.md
 ```
 
